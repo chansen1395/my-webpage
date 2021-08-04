@@ -1,28 +1,59 @@
+html {
+  scroll-behavior: smooth;
+}
+
 h1 {
   color: blue;
   text-align: center;
   font-family: Arial;
-  font-kerning: 125%;
+  font-kerning: 100%;
+  font-size: 200%;
+  font-weight: 200;
 }
+
+h1.snek {
+  color: rgb(21, 128, 21);
+  text-align: center;
+  font-family: Arial;
+  font-kerning: 100%;
+  font-size: 200%;
+  font-weight: 200;
+}
+
 
 h2 {
   font-style: italic;
   text-align: center;
   font-family: Arial;
+  font-size: 200%;
+  font-weight: 200;
 }
 
 p {
   font-family: arial;
+  font-size: 100%;
+  font-weight: normal;
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-family: arial;
+  font-size: normal;
+  line-height: 100%;
+}
+
+li {
+  font-family: arial;
+  font-size: normal;
+  line-height: 100%
 }
 
 img {
   width: 600px;
   height: auto;
+}
+
+img.snek {
+  width: 160px;
 }
 
 /* Dropdown Button */

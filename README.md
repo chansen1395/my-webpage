@@ -24,6 +24,7 @@ _{This webpage has been created to learn and explore the different basic feature
 ## Known Bugs
 
 * Website is still under construction; functionality is limited.
+* Watch out for snakes!
 
 <!-- ## License
 
