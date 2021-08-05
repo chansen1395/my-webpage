@@ -26,10 +26,10 @@ _{This webpage has been created to learn and explore the different basic feature
 * Website is still under construction; functionality is limited.
 * Watch out for snakes!
 
-<!-- ## License
+## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{If you run into any issues or have questions, ideas or concerns, I encourage you to contact me or make a contribution to the code.}_
 
 ## Contact Information
 
-_{Add your contact information here.}_ -->
+_{(555) 555-5555}_
